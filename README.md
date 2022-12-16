@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **Anything related to Software Testing/Test Automation, I would be happy to help!**
 
+- 👀 I’m interested in **Test Automation!**
+
 - 📫 How to reach me **gunashekarr11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
